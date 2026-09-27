@@ -2,6 +2,8 @@
 
 Follow [CONTRIBUTING.md](CONTRIBUTING.md). Org hub: [`../openkms-whitepaper/AGENTS.md`](../openkms-whitepaper/AGENTS.md).
 
-Brand tokens: synced from `../openkms-whitepaper/brand/` via `sync-brand.sh`. After changing this repo, bump the parent pin ([docs/pin-bump.md](docs/pin-bump.md)). Until a Linear workspace is attached, open work lives in git. When Linear exists, it owns open work and decisions; git still owns facts. Do not file openKMS work on other Linear workspaces (`NEW`, `ONC`, `PER`).
+Open work: [shared workflow](../openkms-whitepaper/coordination/agent-handoffs.md). Product claims: [claim register](../openkms-sales-deck/sources/claim-register.md).
+
+Brand tokens: synced from `../openkms-whitepaper/brand/` via `sync-brand.sh`. After changing this repo, bump the parent pin ([docs/pin-bump.md](docs/pin-bump.md)).
 
 Never merge to `main` without explicit user approval.
